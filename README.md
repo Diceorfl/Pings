@@ -21,7 +21,8 @@
 ### How does it work?  
     Keys:  
       /? - Help output (any unknown key)  
-      /n=count - number of retries (default is 4)  
+      /n=count - number of retries (default is 4)  
       /l=size - packet size in bytes (default is 32)  
       /w=timeout - timeout in ms to wait for a response (default is 1000)  
-      /t=time - transmission period in ms (default is 1000)  
+      /t=time - transmission period in ms (default is 1000) 
+![](https://github.com/Diceorfl/Pings/blob/master/Output_example.PNG?raw=true)
